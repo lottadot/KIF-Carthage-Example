@@ -85,7 +85,6 @@
 				341C4A491AD9B0D1005D4487 /* ExampleTests */,
 				3484F1321AD9B53D00AA8E14 /* ExampleAcceptanceTests */,
 				341C4A2E1AD9B0D1005D4487 /* Products */,
-				341C4A561AD9B0DA005D4487 /* Vendor */,
 			);
 			sourceTree = "<group>";
 		};
@@ -138,21 +137,6 @@
 				341C4A4B1AD9B0D1005D4487 /* Info.plist */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		341C4A561AD9B0DA005D4487 /* Vendor */ = {
-			isa = PBXGroup;
-			children = (
-				341C4A571AD9B0E1005D4487 /* KIF */,
-			);
-			name = Vendor;
-			sourceTree = "<group>";
-		};
-		341C4A571AD9B0E1005D4487 /* KIF */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = KIF;
 			sourceTree = "<group>";
 		};
 		3484F1321AD9B53D00AA8E14 /* ExampleAcceptanceTests */ = {
