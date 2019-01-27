@@ -1,7 +1,7 @@
 KIF-Carthage-Example
 =====================
 
-This iOS8++ Xcode project is an an example to show how to use KIF as a framework with Carthage. 
+This iOS8++ Xcode project is an example to show how to use KIF as a framework with Carthage. 
 
 ## Intent
 
